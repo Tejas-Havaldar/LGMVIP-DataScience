@@ -20,3 +20,5 @@ Step 6: Invert Blurred Image
 Step 7: Sketch (Bitwise Division)
 
 Step 8: Compare and show the output and original Image
+
+I have used python 3 and its libraries for this project
